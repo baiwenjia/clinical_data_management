@@ -1,0 +1,6 @@
+,"race","gender","age","admission_type_id","discharge_disposition_id","admission_source_id","time_in_hospital","medical_specialty","diag_1","diag_2","diag_3"
+63555939,"Caucasian","Female",99,3,3,4,12,"InternalMedicine",434,198,486
+1484541,"AfricanAmerican","Male",50,1,6,7,3,,435,250.4,250.6
+91163880,"Asian","Female",61,6,1,7,4,,535,536,553
+79844895,"Hispanic","Male",50,6,1,7,13,"InternalMedicine",303,250.01,414
+79469091,"Other","Female",77,1,3,7,11,"Family/GeneralPractice",38,112,437
